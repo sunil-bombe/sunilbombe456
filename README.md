@@ -1,5 +1,5 @@
 # Hi there, I'm Sunil -  Coder, Tester, and Web Developer 👋 
-(https://www.sunilbombe.epizy.com)](https://www.sunilbombe.epizy.com)
+http://sunilbombe.epizy.com
 
 
 
