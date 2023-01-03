@@ -26,11 +26,11 @@ I love to learn about how things work and try new tools and technologies.
 ## Programming Languages:
 
 <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
-<img src="https://img.shields.io/badge/Java 8 brightgreen" alt="Java 8" />
-<img src="https://img.shields.io/badge/HTML5 brightgreen" alt="HTML5" />
-<img src="https://img.shields.io/badge/PHP brightgreen" alt="PHP" />
-<img src="https://img.shields.io/badge/CSS brightgreen" alt="CSS" />
-<img src="https://img.shields.io/badge/Type Script brightgreen" alt="Type Script" />
+<img src="https://img.shields.io/badge/Java 8 -brightgreen" alt="Java 8" />
+<img src="https://img.shields.io/badge/HTML5 -brightgreen" alt="HTML5" />
+<img src="https://img.shields.io/badge/PHP -brightgreen" alt="PHP" />
+<img src="https://img.shields.io/badge/CSS -brightgreen" alt="CSS" />
+<img src="https://img.shields.io/badge/Type Script -brightgreen" alt="Type Script" />
 <!-- * C/C++
 * JavaScript (ES6)-->
 
