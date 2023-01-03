@@ -25,8 +25,9 @@ I love to learn about how things work and try new tools and technologies.
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> 
-
+<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
+<img src="https://img.shields.io/badge/Java (ES6)-brightgreen" alt="Java 8" />
+<img src="https://img.shields.io/badge/HTML (ES6)-brightgreen" alt="HTML" />
 <!-- * C/C++
 * JavaScript (ES6)-->
 
