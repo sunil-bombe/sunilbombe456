@@ -9,7 +9,7 @@ http://sunilbombe.epizy.com
 - ⚡ I love to reading and buiding new tech tools.
 
 ### Connect with me:
-https://www.linkedin.com/in/sunil-bombe-370266176/
+https://www.linkedin.com/in/sunil-bombe-5276b026a/
 
 
 <p align="center">
